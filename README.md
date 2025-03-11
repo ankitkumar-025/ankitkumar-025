@@ -1,3 +1,9 @@
+# 💫 Hi 👋, I'm Ankit Kumar Gupta
+**"Emerging Tech Enthusiast || B.Tech in CS & System Engineering || Passionate about Web Development & DSA" **
+
+Email Me 👉 ✉️ **ak0199374@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ankit_kumar025) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankit_kumar025) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ankit-kumar-gupta-188898346) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ankit251103) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ak0199374@gmail.com) 
