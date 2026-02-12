@@ -1,5 +1,5 @@
-# 💫 Hi 👋, I'm Ankit Kumar Gupta
-**"Emerging Tech Enthusiast || B.Tech in CS & System Engineering || Passionate about Web Development & DSA" **
+💫 Hi 👋, I'm Ankit Kumar Gupta
+"Emerging Tech Enthusiast || B.Tech in CS & System Engineering || Passionate about Web Development & DSA" 
 
 Email Me 👉 ✉️ **ak0199374@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
